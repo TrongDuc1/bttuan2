@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable-anydpi/ic_next.xml" value="0.353" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable-anydpi/man1.xml" value="0.3675" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable-v24/back.xml" value="0.174" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable-v24/btLogin.xml" value="0.174" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable-v24/edittext.xml" value="0.174" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/buttonborder.xml" value="0.25" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/buttonlg.xml" value="0.174" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/fbgg.xml" value="0.2685" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/ic_anh1.xml" value="0.3675" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.13" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.174" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3675" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/monen.xml" value="0.25" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/drawable/nuttron.xml" value="0.353" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout-v28/activity_welcomescreen.xml" value="0.36666666666666664" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout-v31/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout-w1240dp/activity_loginscreen.xml" value="0.22" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout-w936dp/activity_loginscreen.xml" value="0.33" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_login_screen.xml" value="0.25" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_loginscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_on_boardingtow.xml" value="0.22" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_on_boardingtwo.xml" value="0.5" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_onboardingthree.xml" value="0.33" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_profile_screen.xml" value="0.25" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.25" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/activity_welcomescreen.xml" value="0.33" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/dialog_edit.xml" value="0.25" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTDD/app/src/main/res/layout/splatscreen.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
